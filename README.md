@@ -1,16 +1,14 @@
 ## Hi there 👋
 
+Here are a few ideas to get you started:
 
-**XpromVe/XpromVe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m working on some projects on Telegram
+- 🌱 I’m studying English and Python
+- 👯 I’d like to collaborate on any projects, especially game development
+- 🤔 I need help choosing suitable platforms for future game design
+- 💬 Ask me about how to create Telegram bots
+- 📫 You can contact me via Telegram at @XpromVe (the username may change)
+- 😄 He/Him pronouns
+⚡ Fun fact: I love geography, history, animation, and game design.
 
-Вот несколько идей, с которых можно начать:
-
-- 🔭 Я работаю над некоторыми проектами в телеграм
-- 🌱 Я изучаю английский и пайтон
-- 👯 Я хотел бы сотрудничать по любым проектам особенно созданием игр
-- 🤔 Мне нужна помощь в выборе подходящих платформ для будущего геймдизайна
-- 💬 Спросите меня о том как создавать телеграм ботов
-- 📫 Связаться со мной можно по телеграм @XpromVe( юзернейм может поменяться )
-- 😄 Местоимения Он/Его
-- ⚡ Интересный факт: Люблю географию, историю, анимирование и геймдизайн
-
+✨❤Thank you, Cap Education❤✨
